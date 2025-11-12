@@ -69,7 +69,7 @@ This project serves as a **premium showcase** for developers exploring advanced 
       <td><img src="screenshots/image1.jpg" alt="Speed Test Dashboard" width="250"/></td>
       <td><img src="screenshots/image2.jpg" alt="Testing Active" width="250"/></td>
       <td><img src="screenshots/image3.jpg" alt="Speed History" width="250"/></td>
-      <td><img src="screenshots/image4.jpg" alt="Device Details" width="250"/></td>
+      <td><img src="screenshots/image0.jpg" alt="Device Details" width="250"/></td>
     </tr>
   </table>
 </div>
