@@ -53,6 +53,27 @@ This project serves as a **premium showcase** for developers exploring advanced 
 
 ---
 
+## 🎥 Demo Video
+
+Watch the **Internet Speed Test App** in action:
+<div align="center">
+  <table>
+    <tr>
+      <td><video src="https://github.com/user-attachments/assets/53b10d00-3699-4e25-a3ff-48a0841aa349" controls width="49%"></video></td>
+      <td>  <video src="https://github.com/user-attachments/assets/142c89dc-ec6e-46ae-a0a0-691b6711eb02" controls width="49%"></video></td>
+  </table>
+</div>
+
+
+---
+## 🎥 OR
+
+Watch the **App** in action on **X :**
+👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1946605582905151705?s=20)
+
+---
+
+
 ## 📸 Screenshots
 
 <div align="center">
@@ -76,21 +97,6 @@ This project serves as a **premium showcase** for developers exploring advanced 
 
 ---
 
-## 🎥 Demo Video
-
-Watch the **Internet Speed Test App** in action:
-<div align="center">
-<video src="https://github.com/user-attachments/assets/your-demo-video-id" controls width="100%" ></video> 
-</div>
-
-
----
-## 🎥 OR
-
-Watch the **App** in action on **X :**
-👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1946605582905151705?s=20)
-
----
 
 ## 🏗️ Tech Stack
 
